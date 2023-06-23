@@ -1,9 +1,10 @@
 ﻿//  Вывод числа в квардрате (число > 10)
 
+int number;
 
 // Исходное число
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine());
+number = int.Parse(Console.ReadLine());
 
 // Проверка условия
 if (number <= 10)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Обучение\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {}
+    "E:\\Обучение\\GeekBrains\\Seminar1\\HWTask4\\HWTask4.csproj": {}
   },
   "projects": {
-    "e:\\Обучение\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {
+    "E:\\Обучение\\GeekBrains\\Seminar1\\HWTask4\\HWTask4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Обучение\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
-        "projectName": "SeminarTask1",
-        "projectPath": "e:\\Обучение\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
+        "projectUniqueName": "E:\\Обучение\\GeekBrains\\Seminar1\\HWTask4\\HWTask4.csproj",
+        "projectName": "HWTask4",
+        "projectPath": "E:\\Обучение\\GeekBrains\\Seminar1\\HWTask4\\HWTask4.csproj",
         "packagesPath": "C:\\Users\\innoc\\.nuget\\packages\\",
-        "outputPath": "e:\\Обучение\\GeekBrains\\Seminar1\\SeminarTask1\\obj\\",
+        "outputPath": "E:\\Обучение\\GeekBrains\\Seminar1\\HWTask4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\innoc\\AppData\\Roaming\\NuGet\\NuGet.Config"
