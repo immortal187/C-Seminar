@@ -6,6 +6,4 @@ Console.WriteLine($"Случайное число: {randomnumber}");
 int firtdigit = randomnumber / 100 ;
 int lastdigit = randomnumber % 10;
 
-Console.Write(firtdigit);
-Console.Write(lastdigit);
-
+Console.Write($"Число: {firtdigit}{lastdigit}");
