@@ -8,7 +8,8 @@ a = int.Parse(Console.ReadLine());
 Console.Write("Введите число 2: ");
 b = int.Parse(Console.ReadLine());  
 
-if (a > b)
+if (a == b) Console.WriteLine("Числа равны");
+else if (a > b)
 {
     Console.WriteLine("Максимальное число - " + a);
 } 
