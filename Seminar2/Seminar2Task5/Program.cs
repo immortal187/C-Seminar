@@ -6,7 +6,7 @@ int a = int.Parse(Console.ReadLine());
 Console.Write("Введите число 2: ");
 int b = int.Parse(Console.ReadLine());
 
-if(a*a == b | b*b == a)  
+if(a*a == b || b*b == a)  
 {
     Console.Write("Да");
 }
