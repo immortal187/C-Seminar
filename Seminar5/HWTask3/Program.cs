@@ -31,5 +31,5 @@ for(int i = 0; i < array.Length; i++)
     if (array[i] < min) min = array[i];
 }
 
-double sum = Math.Round(min + max, 2);
+double sum = Math.Round(max - min, 2);
 Console.WriteLine("Сумма максимального и минимального элементов = " + sum);
