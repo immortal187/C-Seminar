@@ -25,11 +25,5 @@ Console.WriteLine("");
 double max = array.Max();
 double min = array.Min();
 
-for(int i = 0; i < array.Length; i++)
-{
-    if (array[i] > max) max = array[i];
-    if (array[i] < min) min = array[i];
-}
-
 double sum = Math.Round(max - min, 2);
 Console.WriteLine("Сумма максимального и минимального элементов = " + sum);
